@@ -1,4 +1,4 @@
-import './index.css';
+import './index.css'   ;
 import { throttle } from './misc';
 import HannyaRoller from './HannyaRoller';
 import text from './hannya-text';
